@@ -1,0 +1,12 @@
+
+.row-3{
+    height: 33.33%;
+}
+.infor-output{
+    display: inline;
+}
+
+.input-group i:hover{
+    color:red
+}
+
