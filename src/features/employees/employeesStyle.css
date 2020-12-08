@@ -1,0 +1,14 @@
+
+
+.menu-toolbar button {
+    width: 50px;
+    padding: 0px;
+}
+
+#empModalAddContent  .input-group-prepend{
+    width: max-content;
+}
+#empModalAddContent  .input-group-prepend .input-group-text{
+    width: 100%;
+}
+

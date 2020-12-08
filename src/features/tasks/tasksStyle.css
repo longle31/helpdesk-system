@@ -1,0 +1,14 @@
+.menu-toolbar {
+    height: 40px;
+    width: fit-content;
+    z-index: 1070 !important; 
+    position: fixed;
+    overflow: hidden;
+}
+.menu-toolbar > *{
+    z-index: 1072 !important; 
+}
+.menu-toolbar button {
+    width: 50px;
+    padding: 0px;
+}

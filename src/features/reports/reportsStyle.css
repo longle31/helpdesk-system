@@ -1,0 +1,7 @@
+.assign-table tbody{
+    height: 100px;
+}
+#remove-task-icon :hover{
+    color: red;
+}
+
